@@ -1,3 +1,5 @@
+This is a fork of tiangolo's [uwsgi-nginx-docker](https://hub.docker.com/r/tiangolo/uwsgi-nginx/) to provide python 3.6 support.
+
 ## Supported tags and respective `Dockerfile` links
 
 * [`python3.6` _(Dockerfile)_](https://github.com/tiangolo/uwsgi-nginx-docker/blob/master/python3.5/Dockerfile)
